@@ -17,8 +17,8 @@ module.exports={ // module.exports will retrurn an obj
         description: "built an db"
     },
     3:{
-    id:1,
-    name:"rahul",
+    id:3,
+    name:"ayushman",
     idea_name: "built an application",
     description: "want to build an dynamic app"
     }
